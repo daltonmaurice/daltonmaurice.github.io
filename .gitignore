@@ -1,0 +1,20 @@
+_site
+.bundle
+.DS_Store
+.idea
+.jekyll-cache
+.jekyll-metadata
+.ruby-version
+.sass-cache
+.tweet-cache
+.venv
+assets/libs/
+assets/rendercv/rendercv_output/*.typ
+Gemfile.lock
+node_modules/
+vendor
+
+# Build artifacts and docs
+lighthouse_results/
+readme_preview/
+*.map

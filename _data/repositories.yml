@@ -1,0 +1,15 @@
+# Featured GitHub Repositories
+# Add 2-4 of your best repos to showcase your technical work
+# Format: username/repo-name or organization-name/repo-name
+
+github_repos:
+  # Add your repos here:
+  - Cooper-lab/mint
+  - DISSC-yale/fairway
+  - daltonmaurice/hospital_ebayes
+  - cooper-lab-yale/infra_demand-estimation
+
+# Uncomment and add repos above when ready
+
+# Number of description lines to show per repo
+repo_description_lines_max: 4

@@ -1,0 +1,11 @@
+# CV data - populate with your information when ready
+cv:
+  name: Maurice Dalton
+  label: Health Economist & Data Engineer
+  email: ""
+  location: New Haven, CT
+  image: ""
+  summary: ""
+
+  social_networks: []
+  sections: {}
