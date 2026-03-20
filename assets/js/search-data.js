@@ -93,6 +93,13 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/orr_replication_package/";
             },},{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/daltonmaurice", "_blank");
+        },
+      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
