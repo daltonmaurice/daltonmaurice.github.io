@@ -11,7 +11,7 @@ Every research project starts the same way: create a folder, maybe initialize gi
 It's a CLI tool that scaffolds standardized research repositories in seconds—Git initialized, data directories tracked with DVC, cloud storage configured. One command, done.
 
 <div class="repositories d-flex flex-wrap gap-2 flex-md-row flex-column justify-content-between align-items-center">
-{% include repository/repo.liquid repository="Cooper-lab/mintd" %}
+{% include repository/repo.liquid repository="health-care-affordability-lab/mintd" %}
 </div>
 
 ## Key Features
@@ -31,5 +31,5 @@ It's a CLI tool that scaffolds standardized research repositories in seconds—G
 
 ## Resources
 
-- [Documentation](https://cooper-lab.github.io/mintd/)
-- [GitHub](https://github.com/Cooper-lab/mintd)
+- [Documentation](https://health-care-affordability-lab.github.io/mintd/)
+- [GitHub](https://github.com/health-care-affordability-lab/mintd)

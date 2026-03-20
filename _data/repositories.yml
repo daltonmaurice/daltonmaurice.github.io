@@ -4,10 +4,9 @@
 
 github_repos:
   # Add your repos here:
-  - Cooper-lab/mint
+  - health-care-affordability-lab/mintd
   - DISSC-yale/fairway
   - daltonmaurice/hospital_ebayes
-  - cooper-lab-yale/infra_demand-estimation
 
 # Uncomment and add repos above when ready
 

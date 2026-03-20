@@ -146,6 +146,6 @@ The audit trail is the key. Every claim traces to a source. That's what makes th
 ---
 
 **Resources:**
-- [Search Intelligence Framework](https://github.com/Cooper-lab/infra_agent-search) - The project described in this post
+- [Search Intelligence Framework](https://github.com/health-care-affordability-lab/infra_agent-search) - The project described in this post
 - [Gemini Search Grounding](https://ai.google.dev/gemini-api/docs/grounding)
 
