@@ -26,4 +26,4 @@ latest_posts:
 
 I build data systems for health economics research—pipelines that process terabytes of Medicare claims, tools that standardize how teams manage code and data, and estimation methods that measure hospital competition.
 
-Most of my work sits at the intersection of econometrics and software engineering: making it easier to do rigorous empirical research at scale.
+Most of my work sits at the intersection of applied economics and software engineering: making it easier to do rigorous empirical research at scale.
