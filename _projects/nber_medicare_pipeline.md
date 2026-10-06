@@ -2,7 +2,7 @@
 layout: page
 title: Automating Medicare Claims Processing
 description: Automated pipeline for processing Medicare claims data
-importance: 3
+importance: 4
 category: data infrastructure
 ---
 
