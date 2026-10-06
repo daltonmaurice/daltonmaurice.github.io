@@ -72,9 +72,14 @@ ninja.data = [{
           description: "Scalable pipeline for reading and transforming research data across formats",
           section: "Projects",handler: () => {
               window.location.href = "/projects/fairway/";
-            },},{id: "projects-mintd-effortless-research-project-management",
-          title: 'mintd: Effortless Research Project Management',
-          description: "CLI tool for creating version-controlled research projects with cloud storage",
+            },},{id: "projects-irs-form-990-e-file-corpus-2010-2026",
+          title: 'IRS Form 990 e-file corpus (2010–2026)',
+          description: "6.2M nonprofit tax filings parsed into 15 analysis-ready Parquet tables, with per-filing provenance",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/irs_990_corpus/";
+            },},{id: "projects-mintd-versioned-citable-data-products",
+          title: 'mintd: Versioned, Citable Data Products',
+          description: "Data-product framework — producer/consumer registry, data contracts, access-tier governance, enclave delivery",
           section: "Projects",handler: () => {
               window.location.href = "/projects/mintd/";
             },},{id: "projects-automating-medicare-claims-processing",
